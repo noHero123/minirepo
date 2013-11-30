@@ -1,2 +1,9 @@
 {"msg":"success","data":[
-{"id":"a123","name":"BetterChat","description":"the mod of the mods","version":4,"versionCode":"1.4","downloads":42}]}
+{"id":"Betterchat","name":"BetterChat","description":"click links + scrolls","version":4,"versionCode":"1.4","downloads":42},
+{"id":"Auction","name":"not an Auction House","description":"makes trading easier","version":4,"versionCode":"1.4","downloads":42},
+{"id":"enchmouseover","name":"enchmouseover","description":"mouse over units to see enchantsments","version":4,"versionCode":"1.4","downloads":42},
+{"id":"GameReplay","name":"GameReplay","description":"fixed version of scrollsguides replayer","version":4,"versionCode":"1.4","downloads":42},
+{"id":"guildchat","name":"GuildChat","description":"a guild ui","version":4,"versionCode":"1.4","downloads":42},
+{"id":"textchanger","name":"TranslationTool","description":"translating the cards","version":4,"versionCode":"1.4","downloads":42},
+{"id":"tradesearch","name":"TradeSearch","description":"better searchbar for trading window etc","version":4,"versionCode":"1.4","downloads":42}
+]}
