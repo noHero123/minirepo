@@ -3,7 +3,7 @@
 {"id":"Auction","name":"not an Auction House","description":"makes trading easier","version":4,"versionCode":"1.4","downloads":42},
 {"id":"enchmouseover","name":"enchmouseover","description":"mouse over units to see enchantsments","version":4,"versionCode":"1.4","downloads":42},
 {"id":"GameReplay","name":"GameReplay","description":"fixed version of scrollsguides replayer","version":4,"versionCode":"1.4","downloads":42},
-{"id":"guildchat","name":"GuildChat","description":"a guild ui","version":4,"versionCode":"1.4","downloads":42},
+{"id":"guildchat","name":"GuildChat","description":"a guild ui","version":4,"versionCode":"1.5","downloads":42},
 {"id":"textchanger","name":"TranslationTool","description":"translating the cards","version":5,"versionCode":"1.7","downloads":42},
 {"id":"ultimateDeckImporter","name":"UltimateDeckImporter","description":"imports decks","version":1,"versionCode":"1.0","downloads":42},
 {"id":"tradesearch","name":"TradeSearch","description":"better searchbar for trading window etc","version":4,"versionCode":"1.4","downloads":42}
