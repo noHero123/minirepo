@@ -1,6 +1,6 @@
 {"msg":"success","data":[
 {"id":"Betterchat","name":"BetterChat","description":"click links + scrolls","version":4,"versionCode":"1.4","downloads":42},
-{"id":"Auction","name":"not an Auction House","description":"makes trading easier","version":4,"versionCode":"1.4","downloads":42},
+{"id":"Auction","name":"not an Auction House","description":"makes trading easier","version":6,"versionCode":"1.6","downloads":42},
 {"id":"enchmouseover","name":"enchmouseover","description":"mouse over units to see enchantsments","version":4,"versionCode":"1.4","downloads":42},
 {"id":"GameReplay","name":"GameReplay","description":"fixed version of scrollsguides replayer","version":4,"versionCode":"1.4","downloads":42},
 {"id":"guildchat","name":"GuildChat","description":"a guild ui","version":4,"versionCode":"1.5","downloads":42},
