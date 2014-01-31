@@ -5,6 +5,6 @@
 {"id":"GameReplay","name":"GameReplay","description":"replay functions","version":7,"versionCode":"1.7","downloads":42},
 {"id":"guildchat","name":"GuildChat","description":"a guild ui","version":4,"versionCode":"1.5","downloads":42},
 {"id":"textchanger","name":"TranslationTool","description":"translating the cards","version":10,"versionCode":"1.10","downloads":42},
-{"id":"ultimateDeckImporter","name":"UltimateDeckImporter","description":"imports and exports decks","version":2,"versionCode":"1.2","downloads":42},
+{"id":"ultimateDeckImporter","name":"UltimateDeckImporter","description":"imports and exports and share decks","version":2,"versionCode":"1.2","downloads":42},
 {"id":"tradesearch","name":"TradeSearch","description":"better searchbar for trading window etc","version":4,"versionCode":"1.4","downloads":42}
 ]}
