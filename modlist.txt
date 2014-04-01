@@ -5,9 +5,10 @@
 {"id":"GameReplay","name":"GameReplay","description":"replay functions","version":9,"versionCode":"1.9","downloads":42},
 {"id":"guildchat","name":"GuildChat","description":"a guild ui","version":2,"versionCode":"1.6","downloads":42},
 {"id":"textchanger","name":"TranslationTool","description":"translating the cards","version":12,"versionCode":"1.12","downloads":42},
-{"id":"ultimateDeckImporter","name":"UltimateDeckImporter","description":"imports and exports and share decks","version":4,"versionCode":"1.7","downloads":42},
+{"id":"ultimateDeckImporter","name":"UltimateDeckImporter","description":"imports and exports and share decks","version":5,"versionCode":"1.8","downloads":42},
 {"id":"tradesearch","name":"TradeSearch","description":"better searchbar for trading window etc","version":5,"versionCode":"1.5","downloads":42},
 {"id":"statsmanager","name":"StatsManager","description":"everyone love stats","version":11,"versionCode":"1.11","downloads":42},
 {"id":"hovercraft","name":"Hovercraft","description":"hover cards 4 times more","version":3,"versionCode":"1.3","downloads":42},
 {"id":"buymanager","name":"BuyManager","description":"buy single/packs/explorers or sell scrolls fast","version":11,"versionCode":"2.1","downloads":42}
+{"id":"scrollmon","name":"ScrollMon!","description":"discover the world of scrollmon","version":2,"versionCode":"4.1","downloads":42}
 ]}
