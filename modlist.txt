@@ -4,7 +4,7 @@
 {"id":"enchmouseover","name":"enchmouseover","description":"mouse over units to see enchantsments","version":9,"versionCode":"1.9","downloads":42},
 {"id":"GameReplay","name":"GameReplay","description":"replay functions","version":133,"versionCode":"3.0","downloads":42},
 {"id":"guildchat","name":"GuildChat","description":"a guild ui","version":2,"versionCode":"1.6","downloads":42},
-{"id":"textchanger","name":"TranslationTool","description":"translating the cards","version":13,"versionCode":"1.13","downloads":42},
+{"id":"TranslationTool","name":"TranslationTool","description":"translating the cards","version":14,"versionCode":"1.14","downloads":42},
 {"id":"ultimateDeckImporter","name":"UltimateDeckImporter","description":"imports and exports and share decks","version":8,"versionCode":"2.8","downloads":42},
 {"id":"tradesearch","name":"TradeSearch","description":"better searchbar for trading window etc","version":6,"versionCode":"1.6","downloads":42},
 {"id":"statsmanager","name":"StatsManager","description":"everyone love stats","version":11,"versionCode":"1.11","downloads":42},
