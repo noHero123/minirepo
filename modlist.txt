@@ -1,5 +1,5 @@
 {"msg":"success","data":[
-{"id":"Betterchat","name":"BetterChat","description":"click+copy links + scrolls","version":6,"versionCode":"1.6","downloads":42},
+{"id":"Betterchat","name":"BetterChat","description":"click+copy links + scrolls","version":7,"versionCode":"1.7","downloads":42},
 {"id":"Auction","name":"Better Blackmarket","description":"makes trading easier","version":133,"versionCode":"6.1","downloads":42},
 {"id":"enchmouseover","name":"enchmouseover","description":"mouse over units to see enchantsments","version":9,"versionCode":"1.9","downloads":42},
 {"id":"GameReplay","name":"GameReplay","description":"replay functions","version":139,"versionCode":"3.6","downloads":42},
