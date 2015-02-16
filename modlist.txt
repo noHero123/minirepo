@@ -11,5 +11,5 @@
 {"id":"battlepaint","name":"Battlepaint","description":"draw on the battlefield","version":3,"versionCode":"1.0","downloads":42},
 {"id":"Battlelog","name":"Battlelog_ALPHA","description":"a simple battlelog","version":6,"versionCode":"0.96","downloads":42},
 {"id":"spectatingviewer","name":"spectatingTime","description":"shows a counter to the life games when they are going to start ","version":1,"versionCode":"0.9","downloads":42},
-{"id":"scrollslive","name":"ScrollsLive","description":"share and watch games live","version":160,"versionCode":"0.8","downloads":42}
+{"id":"scrollslive","name":"ScrollsLive","description":"share and watch games live","version":161,"versionCode":"0.9","downloads":42}
 ]}
