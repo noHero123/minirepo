@@ -9,7 +9,7 @@
 {"id":"BattleMessage","name":"BattleMessage","description":"set the game on fullscreen when a match is ready to play","version":1,"versionCode":"1.0","downloads":42},
 {"id":"buymanager","name":"BuyManager","description":"buy single/packs/explorers or sell scrolls fast","version":13,"versionCode":"2.2","downloads":42},
 {"id":"battlepaint","name":"Battlepaint","description":"draw on the battlefield","version":3,"versionCode":"1.0","downloads":42},
-{"id":"Battlelog","name":"Battlelog_ALPHA","description":"a simple battlelog","version":7,"versionCode":"0.97","downloads":42},
+{"id":"Battlelog","name":"Battlelog_ALPHA","description":"a simple battlelog","version":8,"versionCode":"0.98","downloads":42},
 {"id":"spectatingviewer","name":"spectatingTime","description":"shows a counter to the life games when they are going to start ","version":1,"versionCode":"0.9","downloads":42},
 {"id":"scrollslive","name":"ScrollsLive","description":"share and watch games live","version":162,"versionCode":"0.91","downloads":42}
 ]}
