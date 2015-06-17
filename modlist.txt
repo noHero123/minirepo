@@ -1,5 +1,5 @@
 {"msg":"success","data":[
-{"id":"CustomGameMaker","name":"CustomGameMaker","description":"GUI for creating custom matches","version":7,"versionCode":"1.7","downloads":42},
+{"id":"CustomGameMaker","name":"CustomGameMaker","description":"GUI for creating custom matches","version":8,"versionCode":"1.8","downloads":42},
 {"id":"Betterchat","name":"BetterChat","description":"click+copy links + scrolls","version":8,"versionCode":"1.8","downloads":42},
 {"id":"Auction","name":"Better Blackmarket","description":"makes trading easier","version":150,"versionCode":"7.0","downloads":42},
 {"id":"enchmouseover","name":"enchmouseover","description":"mouse over units to see enchantsments","version":13,"versionCode":"2.1","downloads":42},
